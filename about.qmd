@@ -2,4 +2,3 @@
 title: "About"
 ---
 
-Hi my names Jenny and I'm a yoga teacher based in Glasgow.

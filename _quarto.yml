@@ -4,14 +4,16 @@ project:
 
 website:
   title: "Yogi Jenny"
+  
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+  
 
 format:
   html:
-    theme: solar
+    theme: Quartz
     css: styles.css
     toc: true
