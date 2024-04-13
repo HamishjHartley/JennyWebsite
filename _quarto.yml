@@ -6,10 +6,12 @@ website:
   title: "Yogi Jenny"
   
   navbar:
+    background: secondary
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - practice.qmd
+
   
 
 format:
