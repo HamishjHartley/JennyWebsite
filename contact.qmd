@@ -2,6 +2,6 @@
 title: "Get in touch"
 ---
 
-For business enquirees and anything else contact me at: (add filter for email address to stop bots)
+For business enquirees and anything else contact me at:
 
 ![](/assets/crow.jpg)
