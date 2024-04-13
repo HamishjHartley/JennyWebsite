@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "Hi my names Jenny and I’m a yoga teacher based in Glasgow."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Get in touch",
+    "section": "",
+    "text": "For business enquirees and anything else contact me at: (add filter for email address to stop bots)"
+  },
+  {
+    "objectID": "practice.html",
+    "href": "practice.html",
+    "title": "Practice with Me",
+    "section": "",
+    "text": "I currently teach at the Glasgow University Sport’s center.\n(Add more here)"
   }
 ]
