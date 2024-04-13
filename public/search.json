@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Yogi Jenny",
     "section": "",
-    "text": "Based in Glasgow, I am a Freelance Yoga Instructor with a genuine love for all aspects of yoga, from physical to philosophical and spiritual. I teach a variety of styles of yoga, including Energising and Slow Vinyasa, Power Yoga and Restorative Yin.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEmbarking on a multi-style YTTC training in India was a hugely insightful experience. The course covered the philosophy and history of yoga, anatomy of the human body, and most importantly, ways in which to confidently teach Hatha and Vinyasa style yoga classes for beginner and intermediate levels. The course was heavily focused on the traditional aspects of yoga, particularly surrounding Sanskrit translation and the philosophy of yoga."
+    "text": "Based in Glasgow, I am a Freelance Yoga Instructor with a genuine love for all aspects of yoga, from physical to philosophical and spiritual. I teach a variety of styles of yoga, including Energising and Slow Vinyasa, Power Yoga and Restorative Yin.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIn October 2023, I completed my 200-hour multi-style YTTC training in Goa, India, at the amazing Drishti International Yoga School, with my teachers Manav and Samita. In order to honour the beauty of the ancient practice of Yoga within my classes, I am conscious to intergrate spiritual elements within the physical practice."
   },
   {
     "objectID": "about.html",
@@ -16,9 +16,9 @@
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Get in touch",
+    "title": "Contact me",
     "section": "",
-    "text": "For business enquirees and anything else contact me at:"
+    "text": "Contact me:"
   },
   {
     "objectID": "practice.html",
@@ -26,5 +26,19 @@
     "title": "Practice with Me",
     "section": "",
     "text": "I currently teach at Glasgow University Sports Association in the Stevenson Building and cover yoga classes at Lift Gyms, Edinburgh."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Yogi Jenny",
+    "section": "",
+    "text": "Based in Glasgow, I am a Freelance Yoga Instructor with a genuine love for all aspects of yoga, from physical to philosophical and spiritual. I teach a variety of styles of yoga, including Energising and Slow Vinyasa, Power Yoga and Restorative Yin."
+  },
+  {
+    "objectID": "index.html#my-background",
+    "href": "index.html#my-background",
+    "title": "Yogi Jenny",
+    "section": "My Background",
+    "text": "My Background\nEmbarking on a multi-style YTTC training in India was a hugely insightful experience. The course covered the philosophy and history of yoga, anatomy of the human body, and most importantly, ways in which to confidently teach Hatha and Vinyasa style yoga classes for beginner and intermediate levels. The course was heavily focused on the traditional aspects of yoga, particularly surrounding Sanskrit translation and the philosophy of yoga."
   }
 ]
