@@ -3,7 +3,7 @@ project:
   output-dir: public
 
 website:
-  title: "JennyWebsite"
+  title: "Yogi Jenny"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: spacelab
     css: styles.css
     toc: true
 
